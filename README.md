@@ -1,7 +1,4 @@
 # Web-Scraping-Ebay
-Web Scraping Ebay trending deals &amp; items sell history analysis.
-This web scrapper for simulation purposes.
-Return all current Ebay trending deals as a dataframe and category analysis,
-items sale history and time series plot analysis. 
-
+Web Scraping Ebay trend deals & selling history analysis of items.\n
+For simulation purposes, this web scrapper Return all current Ebay trending deals as an analysis of data frame and category, sale history of items and plot analysis of time series.
 
